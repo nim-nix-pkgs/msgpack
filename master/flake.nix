@@ -10,7 +10,7 @@
   inputs.src-msgpack-master.flake = false;
   inputs.src-msgpack-master.ref   = "refs/heads/master";
   inputs.src-msgpack-master.owner = "akiradeveloper";
-  inputs.src-msgpack-master.repo  = "msgpack-nim.git";
+  inputs.src-msgpack-master.repo  = "msgpack-nim";
   inputs.src-msgpack-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
