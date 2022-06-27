@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653696515,
-        "narHash": "sha256-PXYzoNmp9STYJotEw2fhExZNNA8g2KDF501lEs8VALc=",
+        "lastModified": 1653702046,
+        "narHash": "sha256-3cIu6m/JznZIy/8pJmVZhYdX9yb/BA8qZD5Mu8FCQqM=",
         "owner": "nim-nix-pkgs",
         "repo": "msgpack",
-        "rev": "f2ceda67c5849cf6ef6b752480d438c312de98ae",
+        "rev": "e227cb266a1cbe929d74d82e06f108d025842d4c",
         "type": "github"
       },
       "original": {
@@ -50,8 +50,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
-        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
