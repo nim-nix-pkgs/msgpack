@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656746890,
-        "narHash": "sha256-JmhnMorKNAyIpkMaUlqYy1AOWCO9sZj3DcMlu5Hlnd4=",
+        "lastModified": 1657153084,
+        "narHash": "sha256-kTPkD6RVFhkQdQBgflUuQRK9rCKhY+VL7vdMBx5/xPw=",
         "owner": "nim-nix-pkgs",
         "repo": "msgpack",
-        "rev": "40924f8f97f6a77897e20156cd38a7229f7e29ce",
+        "rev": "b31d025e7eb2bc029509cbd35aa95a0e0d200ffa",
         "type": "github"
       },
       "original": {
